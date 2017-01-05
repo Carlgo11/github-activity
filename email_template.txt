@@ -1,0 +1,6 @@
+From: github_activity@example.com
+Subject: Inactive day on GitHub
+Hi there!
+Have you forgot to use GitHub today?
+
+There's still time!
